@@ -4,6 +4,7 @@ primary_contact: "drhsqlite@gmail.com"
 auto_ccs:
   - "sboydps@gmail.com"
   - "twsmith@mozilla.com"
+  - "ouyangyunshu@google.com"
 sanitizers:
   - address
   - memory
